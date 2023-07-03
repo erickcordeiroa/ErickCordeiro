@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Erick Cordeiro!
 
-🖥Desenvolvedor de software com 5 anos de experiência. Trabalhei com várias tecnologias e linguagens diferentes como, PHP, ReactJs, Laravel, VueJs e outras.
+🖥Desenvolvedor de software com 7 anos de experiência. Trabalhei com várias tecnologias e linguagens diferentes como, PHP, ReactJs, Laravel, VueJs e outras.
 
 <div align="center">
   <a href="https://github.com/ErickCordeiro">
